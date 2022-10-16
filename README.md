@@ -1,6 +1,6 @@
 ### Hi there 👋, I'am Ayyappa Kumar Motamarry
 #### Automation Test Engineer
-I am an Automation Test Engineer and  Functional Tester for Web & API automation.
+I am an Automation Test Engineer and  Functional Tester for both <b>Web</b> & <b>API automation</b>.
 
 Here are some ideas to get you started:
 
